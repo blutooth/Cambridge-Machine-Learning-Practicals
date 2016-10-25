@@ -3,8 +3,8 @@ Subset of machine Learning practical Experiments at Cambridge - In order of what
 
   RL submit:  Reinforcement Learning techniques for navigating around a room with obstacles
   
-  final Report Signed: Global optimisation methods, exploring Simulated Annealing and Evolutionary Strategies
-  global optimisation code: Implementations of methods
+  final Report Signed: Global optimisation methods, exploring Simulated Annealing and Evolutionary Strategies, 
+  - code in 'global_optimisation_code.pdf'
   
   opt1: Gradient based optimisation Techniques
   
